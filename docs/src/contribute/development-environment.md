@@ -19,7 +19,7 @@ Most of the installers already come with [npm](https://www.npmjs.com/) but if fo
 
 ## Step 2: Fork and Checkout Your Own ESLint Repository
 
-Go to <https://github.com/eslint/eslint> and click the "Fork" button. Follow the [GitHub documentation](https://help.github.com/articles/fork-a-repo) for forking and cloning.
+Go to <https://github.com/eslint/eslint> and click the "Fork" button. Follow the [GitHub documentation](https://help.github.com/articles/fork-a-repo) for details on forking and cloning.
 
 Clone your fork:
 
@@ -39,7 +39,7 @@ cd eslint
     args: []
 }) }}
 
-You must be connected to the Internet for this step to work. You'll see a lot of utilities being downloaded.
+You must be connected to the Internet for this step to work. You'll see many packages being downloaded.
 
 **Note:** It's a good idea to re-run `npm install` whenever you pull from the main repository to ensure you have the latest development dependencies.
 
